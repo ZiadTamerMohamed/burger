@@ -1,0 +1,4 @@
+- [x] Add theme toggle button to HomePage appbar (when _currentIndex == 0)
+- [x] Add theme toggle button to FavPage appbar
+- [x] Add theme toggle button to CartPage appbar
+- [x] Add theme toggle button to ProfilePage appbar
